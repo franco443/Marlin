@@ -73,7 +73,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(thisiskeithb, Ender-3 Pro)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Franco, Ender-3 Pro)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
@@ -490,9 +490,9 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
   // Creality Ender-3
-  #define DEFAULT_Kp 15.12
-#define DEFAULT_Ki 1.05
-#define DEFAULT_Kd 54.69
+  #define DEFAULT_Kp 14.97
+#define DEFAULT_Ki 0.95
+#define DEFAULT_Kd 58.99
 
   // Ultimaker
   //#define DEFAULT_Kp 22.2
